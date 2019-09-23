@@ -1,0 +1,5 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "python.pythonPath": "C:\\H08.SDK\\Python37\\python.exe",
+    //"terminal.integrated.shell.windows": null
+}
